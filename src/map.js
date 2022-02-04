@@ -1,8 +1,8 @@
 'use strict';
 
-const mapSize = 6; // Log2 of the grid size (keep the value between [1, 6])
+const mapSize = 2; // Log2 of the grid size (keep the value between [1, 6])
 const cellSize = 8; // Size of the rooms
-const mapHeight = 7; // Height of the walls
+const mapHeight = 5; // Height of the walls
 const wallThickness = 0.25; // Wall thickness
 const wallRemoval = 0.5; // Random wall removal proportion
 
